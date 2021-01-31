@@ -1,1 +1,1 @@
-# FPGA
+# FPGA ile ilgili basic calismalar
